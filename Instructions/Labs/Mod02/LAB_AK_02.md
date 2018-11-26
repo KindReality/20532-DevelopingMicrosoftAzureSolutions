@@ -139,7 +139,7 @@
 
 	a. In the **OS disk type** option, make sure the **Standard HDD** option is selected.
 	
-	a. In the **Use unmanaged disks** option, select the option **Yes**.
+	a. In the **Use managed disks** option, select the option **No**.
 	
 	a. In the **Storage account** list, select the storage account created in the previous task.
 	
